@@ -1,4 +1,4 @@
-package org.Demo
+package org.Demo;
 public class HelloWorld
 {
 	public static void main(String args[])
